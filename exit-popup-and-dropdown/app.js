@@ -203,7 +203,7 @@ function FirePopup() {
                 document.querySelector(".popup-countdown").style.left = "2px";
             }
         }
-        document.querySelector(".coupon-popup").style.top = config.countdownControl ? (window.innerWidth > 768 ? "327px" : "162px") : (window.innerWidth > 768 ? "275px": "155px");
+        document.querySelector(".coupon-popup").style.top = config.countdownControl ? (window.innerWidth > 768 ? "327px" : "162px") : (window.innerWidth > 768 ? "310px": "155px");
         var copiedTextPopup = document.querySelector("#popup-copied-button");
 
         couponCode(copiedTextPopup);
