@@ -5,8 +5,6 @@ Available in versions with and without counters. Once the popup is displayed, th
 
 ## **How to use**
 
-#### **Game, Camera and Handler Classes**
-
 Dropdown opens after copying the coupon code
 
 ![Adsız tasarım](https://github.com/burakbaslik/exit-popup-and-dropdown/assets/114684038/591cb3b0-4473-4f16-ad53-e21556b3450e)
